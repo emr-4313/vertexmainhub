@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Vertex Hub",
+      "hasCanvas": false,
+      "bodyTextLen": 1048,
+      "bodyTextHash": "7ea9ad6a20077e713931ce4b8ce301a4c54354c97fda41026349fb6fff707d9d",
+      "bodyTextPrefix": "Vertex Hub Dosyalar Nasıl açılır İndir Vertex Hub Uygulama değil",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Vertex Hub",
+      "hasCanvas": false,
+      "bodyTextLen": 1026,
+      "bodyTextHash": "2c7094ab2db789d22e996b3a1488dac9a79077dc3b3f41dd57201e103281aeb7",
+      "bodyTextPrefix": "Vertex Hub İndir Vertex Hub Uygulama değil. Roblox yer ve model ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
